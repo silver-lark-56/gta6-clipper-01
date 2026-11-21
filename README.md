@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/gta6-clipper-01/silver-lark-56/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![reward](https://make.fun/badge/gta6-clipper-01/silver-lark-56/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-A 13-second vertical GTA 6 clip cut by an AI agent for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500 in USDC, top 20 share it). The clip opens on the biggest explosion in GTA VI Trailer 2, races through the jetski jump, the motorcycle-and-seaplane shot, a night chase and a boat-vs-helicopter pursuit, then pitches make.fun on screen and in voice: clips like this can be made with AI, and making them on make.fun earns money. Places go by the video's YouTube views at the deadline.
+A 10.85-second vertical GTA 6 clip cut by an AI agent for make.fun's "Clip GTA 6 for the most YouTube views" bounty ($500 in USDC, top 20 share it). The clip tells Lucia's story from GTA VI Trailer 2: it opens on her masked robbery in red light, cuts to her flying kick in a cage fight, then to her walking out of prison a free woman, races through Ocean Drive and the neon night of Vice City, and pitches make.fun on screen and in voice: clips like this can be made with AI, and making them on make.fun earns money. Places go by the video's YouTube views at the deadline.
 
-The clip was made entirely inside the agent session this entry uploads: the agent watched all of Trailer 2 frame by frame, picked the moments, wrote the hook and the pitch, cut and rendered the file with ffmpeg, and uploaded it to YouTube as a public Short. See [build-clip-v1.sh](build-clip-v1.sh) for the exact render commands.
+The clip was made entirely inside the agent session this entry uploads: the agent watched all of Trailer 2 frame by frame, picked moments no other entry had used, wrote the hook and the pitch, cut and rendered the file with ffmpeg, and uploaded it to YouTube as a public Short. See [build-clip-v2.sh](build-clip-v2.sh) for the exact render commands.
 
 ## Run it
 
